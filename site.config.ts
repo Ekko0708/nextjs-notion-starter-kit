@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '86ffed59e6f040cc82583198e9c8a744',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Ekko的Blogs',
+  domain: 'https://dorian-payment-ad9.notion.site/86ffed59e6f040cc82583198e9c8a744?v=2cad1b9e7d58407d83f2992edcb2fa83&pvs=4',
+  author: 'Ekko',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
