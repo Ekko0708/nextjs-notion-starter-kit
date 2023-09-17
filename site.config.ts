@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '86ffed59e6f040cc82583198e9c8a744',
+  rootNotionPageId: '2232323-1b4d3fc4f5a8487f929994460f55753d',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Ekko的Blogs',
-  domain: 'https://dorian-payment-ad9.notion.site/86ffed59e6f040cc82583198e9c8a744?v=2cad1b9e7d58407d83f2992edcb2fa83&pvs=4',
+  domain: 'https://dorian-payment-ad9.notion.site/2232323-1b4d3fc4f5a8487f929994460f55753d?pvs=4',
   author: 'Ekko',
 
   // open graph metadata (optional)
